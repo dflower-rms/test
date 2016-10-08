@@ -1,3 +1,4 @@
 {
+    "plugins": ["toggle-chapters"],
     "root": "./developer-handbook"
 }
